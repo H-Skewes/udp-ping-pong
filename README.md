@@ -1,4 +1,4 @@
-# How to use the server in client
+# How to use the server and client
 
 As long as you have Python installed you shouldn't have to install any dependencies 
 
